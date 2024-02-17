@@ -1,0 +1,15 @@
+NoobCode is a simple and ad-free website to find solutions of various problems from leetcode.com
+
+The solutions for DSA (Data Structure and Algorithms) problems are in C++ language.
+Databse problems are solved with MySQL.
+Solutions for Javascript specific questions can be found as well.
+
+The best way to learn is to use the solutions found here only as reference.
+Just copy pasting the code won't help you learn.
+
+Solve more problems at https://leetcode.com/problemset/
+
+Happy Coding :)
+
+Incase you find any solution to be wrong, not working, report bugs or any other suggestion.
+Please send an email at - {}
